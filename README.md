@@ -12,7 +12,7 @@ Features of this project are as following:-
 	
 	>>> Shoping like purchasing item from inventory.
 	
-	>>> Using 3 dimentional dictonary for better accessibility and making single purchase invoice for one person.
+	>>> Using 3 dimensional dictonary for better accessibility and making single purchase invoice for one person.
 	In this, with help of 3D dictonary a single purchase invoice is generated and that can get multiple products in one transaction.
 	
 	
